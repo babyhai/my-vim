@@ -4,6 +4,3 @@ call vundle#rc()
 
 Plugin 'Yggdroot/LeaderF'
 Plugin 'scrooloose/nerdtree'
-Plugin 'mileszs/ack.vim'
-Plugin 'kien/ctrlp.vim'
-Plugin 'Raimondi/delimitMate'
