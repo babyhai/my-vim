@@ -15,7 +15,7 @@ If you do web dev a lot...yes
         把vimrc  .vimrc.bundles 都拷贝到~目录下
         cd  my-vim
         cp  vimrc   ~/.vimrc
-        cp  .vimrc.bundles   /.vimrc.bundles
+        cp  .vimrc.bundles   ~/.vimrc.bundles
 
 
 
